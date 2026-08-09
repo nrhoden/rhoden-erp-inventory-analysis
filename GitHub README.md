@@ -74,9 +74,21 @@ Each query corresponds to one of the 10 business requests documented in the proj
 
 ## Key Findings
 
-The SQL analysis was used to identify patterns in inventory value, supplier relationships, plant-level shortages, safety stock risks, and slow-moving materials.
+### 1. Inventory Concentration by Plant
 
-Specific findings from the analysis will be documented here based on the query results.
+Inventory value was analyzed across manufacturing plants to identify where the greatest amount of inventory investment is concentrated. This analysis provides visibility into where company capital is tied up in inventory and helps identify plants that may warrant additional inventory management attention.
+
+### 2. Supplier Inventory Exposure
+
+Inventory value was analyzed by vendor to identify suppliers associated with the largest inventory investment. This provides insight into supplier relationships with significant financial impact and can support purchasing, supplier management, and inventory planning decisions.
+
+### 3. Inventory Risk
+
+Materials below safety stock levels and inventory shortages were analyzed to identify potential operational risks across manufacturing plants. These results help highlight materials that may require replenishment and locations where inventory shortages could affect production or operations.
+
+### 4. Slow-Moving Inventory
+
+Slow-moving inventory was analyzed to identify materials with limited movement that may be tying up working capital. Identifying these materials can help support decisions related to inventory reduction, purchasing, and more efficient use of storage space and capital.
 
 ## Skills Demonstrated
 
